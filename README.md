@@ -2,6 +2,10 @@
 
 This five-week workshop series introduces participants to PyTorch and its applications in deep learning. Designed for researchers and students interested in machine learning, the sessions provide hands-on experience with neural networks, from basic tensor operations to training custom models on real-world data.
 
+## How to use this repository
+
+I would recommend importing the notebooks into Google Colab, which is generally free, and also allows the use of a certain amount of free GPU time. You may also download the notebooks to run locally, or simply follow along with the tutorials by writing your own code locally.
+
 ## Structure
 
 This repository hosts Jupyter notebooks which take participants from having no understanding of machine learning with Pytorch through to being able to create their own architectures and execute training on their own datasets. This repository also hosts some brief slides given during each session of the workshop to introduce various concepts.
